@@ -1,5 +1,5 @@
 # 🎀 Bienvenido/a a Juguete de Repositorio Prueba
-
+# Le voy a borrar sus moñitos 
 <!--
 🎨 Colores pastel sugeridos (para visores compatibles):
 Rosa suave: #FFD6E0
