@@ -2,3 +2,5 @@
 
 ## ¿cómo puedo utilizar .md?
 https://www.markdownguide.org/hacks/ 
+
+RECUERDA GUARDARLO CON .MD
